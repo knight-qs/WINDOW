@@ -1,5 +1,5 @@
-# Literature
-### 红花绿绒蒿
+# 1. Literature
+### 1.1 红花绿绒蒿
 >```绿绒蒿属（Meconopsis）多生于喜马拉雅横断山区，这一属名可拆作两部分，“Mecon”指罂粟，“opsis”意为像什么模样，虞美人和罂粟都是它的近亲。一战前是欧洲的黄金时代，园艺成为上流社会的时尚，植物猎人欧内斯特·亨利·威尔逊（Ernest Henry Wilson）第二次造访中国，便是为了找寻绿绒蒿属的一员————全缘叶绿绒蒿。而山地的风景不止于此，还有身着红色丝绸礼裙的少女，垂首含羞，威尔逊在书中写到，“我发现了她，我的绛色情人，她在灌木丛中现身，仿佛要引我揭开她身世的谜底”。————题记```
 >
 19世纪，为同英国争夺中亚利益，一批俄国探险家作为帝国的触角，深入中国秘境，带回大量珍贵植物标本。其中，红花绿绒蒿（Meconopsis punicea）于1889年由俄国植物学家卡尔·伊万诺维奇·马克西莫维奇（Carl Johann Maximowicz）命名。而在藏语中，红花绿绒蒿被唤作“阿柏几麻鲁”，藏医典籍《晶珠本草》对绿绒蒿属植物亦有分类，它便属于欧贝类，以花入药，记载其性凉，味甘涩，可清热利尿，消炎止痛。高原生存的智慧并非人类独有，在恶劣的生境下，红花绿绒蒿自有其独特的适应机制。
@@ -12,7 +12,7 @@
 
 <br>
 
-### 《中国岭南凉茶与文化》节选
+### 1.2 《中国岭南凉茶与文化》节选
 “瘴气”是岭南历史绕不开一个词，历朝历代的文字皆可见它不祥的身影，这身影一旦出现，死亡往往紧随其后。海南《儋县志》如是记载，“盖地极炎热，而海风甚寒，山中多雨多雾，林木阴翳，燥湿之气不能远，蒸而为云，停而为水，莫不有毒”。贵州龙场是王阳明的谪居之地，《阳明年谱》这样记载，龙场“处于万山丛棘之中，蛇虺魍魉，蛊毒瘴疠,与居夷人鴃舌难语,可通语者,皆中土亡命徒”，而关于瘴气，王阳明的《瘗旅文》记录了这样一番惨痛的见闻：
 <br>
 >维正德四年秋月三日，有吏目云自京来者，不知其名氏，携一子一仆，将之任，过龙场，投宿土苗家。予从篱落间望见之，阴雨昏黑，欲就问讯北来事，不果。明早，遣人睹之，已行矣。
@@ -27,9 +27,9 @@
 
 <br><br>
 
-# Photography
+# 2. Photography
 
-## dream lover
+## 2.1 dream lover
 ![lip](https://github.com/knight-qs/WINDOW/blob/main/fig/lip.jpg)
 <br><br>
 ![leg](https://github.com/knight-qs/WINDOW/blob/main/fig/leg.jpg)
@@ -38,21 +38,21 @@
 
 <br><br>
 
-## Laughter of weeding
+## 2.2 Laughter of weeding
 ![sueeze_for_lover](https://github.com/knight-qs/WINDOW/blob/main/fig/sueeze%20for%20lover.jpg)
 <br><br>
 ![red_boot](https://github.com/knight-qs/WINDOW/blob/main/fig/red%20boot.jpg)
 
 <br><br>
 
-## burst into bloom
+## 2.3 burst into bloom
 ![leige](https://github.com/knight-qs/WINDOW/blob/main/fig/leige.jpg)
 <br><br>
 ![yuge](https://github.com/knight-qs/WINDOW/blob/main/fig/IMG_1360.JPG)
 
 <br><br>
 
-## grandpa
+## 2.4 grandpa
 ![laoye](https://github.com/knight-qs/WINDOW/blob/main/fig/grandpa.jpg)
 <br><br>
 ![hand](https://github.com/knight-qs/WINDOW/blob/main/fig/hand.jpg)
