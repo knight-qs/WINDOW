@@ -38,7 +38,7 @@
 
 <br><br>
 
-## 2.2 Laughter of weeding
+## 2.2 laughter of weeding
 ![sueeze_for_lover](https://github.com/knight-qs/WINDOW/blob/main/fig/sueeze%20for%20lover.jpg)
 <br><br>
 ![red_boot](https://github.com/knight-qs/WINDOW/blob/main/fig/red%20boot.jpg)
