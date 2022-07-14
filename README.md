@@ -27,3 +27,7 @@
 
 # Photography
 ![yuge](https://github.com/knight-qs/WINDOW/blob/main/fig/IMG_1360.JPG)
+<br>
+![laoye](https://github.com/knight-qs/WINDOW/blob/main/fig/grandpa.jpg)
+<br>
+![chun](https://github.com/knight-qs/WINDOW/blob/main/fig/spring.jpg)
