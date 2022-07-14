@@ -26,13 +26,20 @@
 公元311年，葛洪南下广州，归隐罗浮，其医学著作《肘后备急方》中记载了很多治疗岭南热毒上火的药方，凉茶的雏形便是在那时出现的。例如“太乙流金方”为“雄黄三两,雌黄二两，矾石鬼箭各一两半，羧羊角二两，捣为散，三角绛囊贮一两，带心前并门户上，月旦青布裹一刀圭，中庭烧，温病人亦烧熏之即差”。上述药方中的生草药都是针对温湿气候，用来治疗温热上火等症状的,其功效与后世的凉茶有异曲同工之妙。
 
 # Photography
+
+## dream lover
+![eyes](https://github.com/knight-qs/WINDOW/blob/main/fig/eyes.jpg)
+<br><br>
+![lip](https://github.com/knight-qs/WINDOW/blob/main/fig/lip.jpg)
+
+## Laughter of weeding
+![sueeze_for_lover](https://github.com/knight-qs/WINDOW/blob/main/fig/sueeze%20for%20lover.jpg)
+![red_boot](https://github.com/knight-qs/WINDOW/blob/main/fig/red%20boot.jpg)
+
 ## burst into bloom
 ![leige](https://github.com/knight-qs/WINDOW/blob/main/fig/leige.jpg)
 ![yuge](https://github.com/knight-qs/WINDOW/blob/main/fig/IMG_1360.JPG)
 
-## Laughter of weeding
-![leige](https://github.com/knight-qs/WINDOW/blob/main/fig/red_boot.jpg)
-![yuge](https://github.com/knight-qs/WINDOW/blob/main/fig/IMG_1360.JPG)
 
 <br>
 ![laoye](https://github.com/knight-qs/WINDOW/blob/main/fig/grandpa.jpg)
