@@ -31,7 +31,7 @@
 ![yuge](https://github.com/knight-qs/WINDOW/blob/main/fig/IMG_1360.JPG)
 
 ## Laughter of weeding
-![leige](https://github.com/knight-qs/WINDOW/blob/main/fig/leige.jpg)
+![leige](https://github.com/knight-qs/WINDOW/blob/main/fig/red_boot.jpg)
 ![yuge](https://github.com/knight-qs/WINDOW/blob/main/fig/IMG_1360.JPG)
 
 <br>
